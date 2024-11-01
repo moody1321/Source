@@ -35,7 +35,7 @@ local Success, Response = pcall(function()
 end)
 
 if not Success then
-	nil
+	
 end	
 
 local function GetIcon(IconName)
